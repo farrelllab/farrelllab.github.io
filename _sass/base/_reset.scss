@@ -54,6 +54,10 @@ h6 {
     color: $c-base__02;
 }
 
+h1 {
+	text-align: center;
+	clear: both;
+}
 
 /* Media */
 audio, canvas, progress, video {
@@ -154,8 +158,19 @@ i, em       { font-weight: italic; }
 
 figure {
     margin: 0;
+    padding: 2rem;
+    max-width: 100%;
 }
 
+.floatleft {
+	width: 50%;
+	float: left;
+}
+
+.floatright {
+	width: 50%;
+	float: right;
+}
 
 hr {
     margin-top: 2.5rem;
@@ -164,6 +179,7 @@ hr {
     height: 1px;
     border: 0;
     background: #EFF1F3;
+    clear: both;
 }
 
 /* Code Blocks */
