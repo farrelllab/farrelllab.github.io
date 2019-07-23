@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Science 2018 Breakthrough of the Year"
-description: "Our micrograph was the cover of Science's 2018 Breakthrough of the Year for tracking development cell-by-cell!"
+description: "Our image was the cover for tracking development cell-by-cell!"
 date: 2018-12-20
 ---
 
