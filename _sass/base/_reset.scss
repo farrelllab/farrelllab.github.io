@@ -162,16 +162,6 @@ figure {
     max-width: 100%;
 }
 
-.floatleft {
-	width: 50%;
-	float: left;
-}
-
-.floatright {
-	width: 50%;
-	float: right;
-}
-
 hr {
     margin-top: 2.5rem;
     margin-bottom: 2.5rem;
@@ -182,6 +172,50 @@ hr {
     clear: both;
 }
 
+/* Two-column layout */
+
+.floatleft {
+	width: 50%;
+	float: left;
+}
+
+.floatright {
+	width: 50%;
+	float: right;
+}
+
+
+@media all and (max-width: 1199px) {
+
+	.twocolleft {
+		width: 70%;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	.twocolright {
+		width: 70%;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	
+}
+
+@media all and (min-width: 1200px) {
+
+	.twocolleft {
+		width: 50%;
+		float: left;
+	}
+	
+	.twocolright {
+		width: 50%;
+		float: right;
+	}
+
+}
 /* Code Blocks */
 
 pre { overflow: auto; }
