@@ -4,8 +4,15 @@ title: Contact
 permalink: /contact/
 ---
 
-We are located at the National Institute of Health's Bethesda, MD campus:
+# You can contact us by email:
+**Dr. Jeffrey Farrell**, Principal Investigator<br />
+[jfarrell@g.harvard.edu](mailto:jfarrell@g.harvard.edu)
 
+----------------------------
+
+# Or, visit us:
+
+We are located at the National Institute of Health's Bethesda, MD campus:<br />
 Unit on Vertebrate Cell Specification and Differentiation<br />
 Eunice Kennedy Shriver National Institute of Child Health and Human Development<br />
 Building 6A, Room 1A06<br />
