@@ -1,6 +1,7 @@
 ---
 layout: content
 title: Research
+display-title: Research
 permalink: /research/
 ---
 

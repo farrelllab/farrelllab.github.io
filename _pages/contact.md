@@ -1,6 +1,7 @@
 ---
 layout: content
 title: Contact
+display-title: Contact Us!
 permalink: /contact/
 ---
 

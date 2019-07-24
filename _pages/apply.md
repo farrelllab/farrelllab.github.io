@@ -1,6 +1,7 @@
 ---
 layout: content
 title: Apply
+display-title: Apply
 permalink: /apply/
 ---
 

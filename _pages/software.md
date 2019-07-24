@@ -1,6 +1,7 @@
 ---
 layout: content
 title: Software
+display-title: Software
 permalink: /software/
 ---
 

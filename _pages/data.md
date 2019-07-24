@@ -1,6 +1,7 @@
 ---
 layout: content
 title: Data
+display-title: Data
 permalink: /data/
 ---
 

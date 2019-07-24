@@ -8,6 +8,7 @@
 
 .c-article__header {
     margin-bottom: 2rem; // 50px
+    text-align: center;
     @media screen and (min-width: $bp__sm) {
         display: -webkit-box;
         display: -webkit-flex;
@@ -28,8 +29,29 @@
 }
 
 .c-article__title {
+    //@include fs--heading-1;
+    font-size: 3.2rem;
+    width: 100%;   
+    text-align: center;
+    
+    line-height: 1;
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+    
+    margin-top: 2.5rem;
+    margin-bottom: 0.5rem;
+    
+    color: $c-base__02;
+    
+    border-style: solid;
+    border-width: 2px;
+    border-color: $c-base__02;
+}
+
+.c-post__title {
     @include fs--heading-1;
     color: $c-base__02;
+    margin-top: 1.5rem;
 }
 
 .c-article__time {
