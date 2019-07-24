@@ -187,7 +187,7 @@ hr {
 }
 
 
-@media all and (max-width: 1199px) {
+@media all and (max-width: $one_col_ok) {
 
 	.figtwocolleft {
 		width: 70%;
@@ -219,7 +219,7 @@ hr {
 	
 }
 
-@media all and (min-width: 1200px) {
+@media all and (min-width: $two_col_ok) {
 
 	.figtwocolleft {
 		width: 50%;
