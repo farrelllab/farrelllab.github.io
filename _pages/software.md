@@ -9,7 +9,7 @@ permalink: /software/
 
 -----------------
 
-<img src="../assets/software-data/URD-software.png" />
+<img src="../assets/software-data/URD-software.png" alt="URD"/>
 
 [URD](https://github.com/farrellja/URD) is an R package for reconstructing transcriptional trajectories underlying specification or differentiation processes in the form of a branching tree, using single cell RNA-sequencing data. URD uses a diffusion map projection of the data and works by simulating biased random walks through that projection.
 
