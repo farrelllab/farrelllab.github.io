@@ -57,6 +57,8 @@ h6 {
 h1 {
 	text-align: center;
 	clear: both;
+	font-size: 200%;
+	padding-top: 1rem;
 }
 
 /* Media */
@@ -187,15 +189,29 @@ hr {
 
 @media all and (max-width: 1199px) {
 
-	.twocolleft {
+	.figtwocolleft {
 		width: 70%;
 		display: block;
 		margin-left: auto;
 		margin-right: auto;
 	}
 
-	.twocolright {
+	.figtwocolright {
 		width: 70%;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	
+	.texttwocolleft {
+		width: 100%;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	.texttwocolright {
+		width: 100%;
 		display: block;
 		margin-left: auto;
 		margin-right: auto;
@@ -205,12 +221,22 @@ hr {
 
 @media all and (min-width: 1200px) {
 
-	.twocolleft {
+	.figtwocolleft {
 		width: 50%;
 		float: left;
 	}
 	
-	.twocolright {
+	.figtwocolright {
+		width: 50%;
+		float: right;
+	}
+	
+	.texttwocolleft {
+		width: 50%;
+		float: left;
+	}
+	
+	.texttwocolright {
 		width: 50%;
 		float: right;
 	}

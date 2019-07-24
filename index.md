@@ -9,13 +9,13 @@ title: The Farrell Lab @ NICHD
 
 # Our research
 
-<figure class="floatleft">
+<figure class="figtwocolleft">
   <img src="assets/pages/embryo-in-situ.png" alt="RNA in situ of zebrafish embryo">
   <br /><br /><br />
   <h2><a href="/research" style="text-align: center;">Learn more about our research.</a></h2>
 </figure> 
 
-<p class="floatright">
+<p class="texttwocolright">
 Every embryo starts as a single, fertilized cell. It must then build itself into a complex collection of cells specialized for particular functions: light perception, oxygen transport, structural integrity, propagation of the next generation, and many others. How do embryos do this? What journey does each cell take as it transforms from a cell with many potentials into a differentiated cell with a specific identity and function? How are these transformations encoded in and coordinated by the genome?
 
 <br /><br />
