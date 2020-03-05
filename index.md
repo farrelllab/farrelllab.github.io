@@ -1,8 +1,9 @@
 ---
+title: Farrell Lab @ NICHD
 layout: content
 ---
 
-# The lab will open in January 2020, and we are actively recruiting lab members. Please [apply](/apply)!
+# The lab recently opened in January 2020, and we are actively recruiting lab members. Please [apply](/apply)!
 
 ------------------
 
