@@ -5,10 +5,6 @@ display-title: Research
 permalink: /research/
 ---
 
-Every embryo starts as a single, fertilized cell. It must then build itself into a complex collection of cells specialized for particular functions: light perception, oxygen transport, structural integrity, propagation of the next generation, and many others. How do embryos do this? What journey does each cell take as it transforms from a cell with the capacity to become anything into a differentiated cell with a specific identity and function? How are these transformations encoded in and coordinated by the genome?
-
-We combine single-cell genomics, imaging, genetic, and classical embryological approaches to investigate how cell types are specified and then how cells differentiate during vertebrate embryogenesis. We focus on zebrafish embryos as a model system to study these questions, because among vertebrates, they are easy to culture, image, and manipulate both embryologically and genetically. We also love to collaborate with groups that work on other interesting animals.
-
 # Cell Specification
 
 <figure class="figtwocolright"><img src="../assets/pages/URDtree.png" alt="Specification tree of early zebrafish embryogenesis reconstructed with URD"></figure>

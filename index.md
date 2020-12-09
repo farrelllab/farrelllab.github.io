@@ -3,11 +3,7 @@ title: Farrell Lab @ NICHD
 layout: content
 ---
 
-# The lab recently opened in January 2020, and we are actively recruiting lab members. Please [apply](/apply)!
-
-------------------
-
-# Our research
+<br />
 
 <figure class="figtwocolleft">
   <img src="assets/pages/embryo-in-situ.png" alt="RNA in situ of zebrafish embryo">
@@ -20,7 +16,7 @@ Every embryo starts as a single, fertilized cell. It must then build itself into
 
 <br /><br />
 
-We combine single-cell genomics, imaging, genetic, and classical embryological approaches to investigate how cell types are specified and then how cells differentiate during vertebrate embryogenesis. We focus on zebrafish embryos as a model system to study these questions, because among vertebrates, they are easy to culture, image, and manipulate both embryologically and genetically.
+In the Farrell Lab, we combine single-cell genomics, imaging, genetic, and classical embryological approaches to investigate how cell types are specified and then how cells differentiate during vertebrate embryogenesis. We focus on zebrafish embryos as a model system to study these questions, because among vertebrates, they are easy to culture, image, and manipulate both embryologically and genetically.
 </p>
 
 ------------------
