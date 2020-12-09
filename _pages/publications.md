@@ -7,14 +7,16 @@ permalink: /publications/
 
 A full list of publications is available at [Pubmed](https://www.ncbi.nlm.nih.gov/myncbi/jeffrey%20a..farrell.1/bibliography/public/).
 
-**[Emergence of neuronal diversity during vertebrate brain development.](https://www.biorxiv.org/content/10.1101/839860v1)**<br />
+**[Emergence of neuronal diversity during vertebrate brain development.](https://pubmed.ncbi.nlm.nih.gov/33068532/)**<br />
 **Raj B, <u>Farrell JA</u>, McKenna A, Leslie JL, Schier AF.**<br />
+**<i>Neuron</i>. 2020; Oct 6;S0896-6273(20)30747-9; doi: 10.1016/j.neuron.2020.09.023.**<br />
 **<i>biorxiv</i>. 2019; 839860; doi: 10.1101/839860**<br />
 <span class="pub-desc">We sequenced and analyzed 200,000 cells from 12 stages of brain development (12 hours to 5 days), generating an atlas of zebrafish brain development. Analysis of the transcriptional trajectories and the gene expression cascades during the development of the retina and the hypothalamus revealed different progenitor strategies between these two tissues, and revealed that fish Muller glia cells seem to become transcriptionally distinct much earlier in development than mammalian ones.</span>
 
 **[Stem cell differentiation trajectories in Hydra resolved at single-cell resolution.](https://science.sciencemag.org/content/365/6451/eaav9314)**<br />
 **Siebert S, <u>Farrell JA</u>, Cazet J, Abeykoon Y, Primack A, Schnitzler C, Juliano CE.**<br />
 **<i>Science</i>. 2019; 365(6451), eaav9314; doi: 10.1126/science.aav9314**<br />
+**<i>biorxiv</i>. 2018; 460154; doi: 10.1101/460154**<br />
 <span class="pub-desc">Adult Hydra continually renew all cells from three distinct stem cell populations. We sequenced 25,000 cells from adult Hydra and used URD to construct the differentiation trajectories of all cell types and identified the transcription factors expressed along each trajectory.  Surprisingly, we found that neurons and gland cells transit through a common progenitor state, and characterized the full complement of neurons, providing the first genetic handles for the endodermal nerve net. This work demonstrates the applicability of URD in multiple contexts.</span>
 
 **[Single-cell reconstruction of developmental trajectories during zebrafish embryogenesis.](https://www.ncbi.nlm.nih.gov/pubmed/29700225/)**<br />
