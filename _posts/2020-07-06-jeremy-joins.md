@@ -10,5 +10,5 @@ Jeremy Popowitz has joined the lab as a new post-bac! He graduated from American
 Welcome, Jeremy!
 
 <figure align="center">
-  <img src="../../assets/people/Popowitz-Jeremy-2020.png" alt="Portrait of Jeremy Popowitz" align="center" with="288" height="288" />
+  <img src="../../assets/people/Popowitz-Jeremy-2020.png" alt="Portrait of Jeremy Popowitz" align="center" width="288" height="288" />
 </figure> 
