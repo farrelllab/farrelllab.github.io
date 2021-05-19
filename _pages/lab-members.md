@@ -29,6 +29,17 @@ permalink: /lab-members/
 </figure>
 
 <figure class="figtwocolleft">
+  <img src="../assets/people/Chen-ChengYi-2021.png" alt="Portrait of Cheng-Yi Chen" width="288" height="288" />
+  <div style="text-align : center">
+  <br />
+  <b>Cheng-Yi Chen</b> <br />
+  Post-doctoral Fellow <br />
+  Joined the lab in 2021 <br />
+  cheng-yi <i>[dot]</i> chen <i>[at]</i> nih.gov <br />
+  </div>
+</figure> 
+
+<figure class="figtwocolright">
   <img src="../assets/people/Popowitz-Jeremy-2020.png" alt="Portrait of Jeremy Popowitz" width="288" height="288" />
   <div style="text-align : center">
   <br />
@@ -39,7 +50,7 @@ permalink: /lab-members/
   </div>
 </figure> 
 
-<figure class="figtwocolright">
+<figure class="figtwocolleft">
   <img src="../assets/people/Sur-Abhinav-2020.png" alt="Portrait of Abhinav Sur" width="288" height="288" />
   <div style="text-align : center">
   <br />
@@ -50,7 +61,7 @@ permalink: /lab-members/
   </div>
 </figure> 
 
-<figure class="figtwocolleft">
+<figure class="figtwocolright">
   <img src="../assets/people/Upton-Eric-2020.png" alt="Portrait of Eric Upton" width="288" height="288" />
   <div style="text-align : center">
   <br />
