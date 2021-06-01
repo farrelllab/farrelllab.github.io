@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cheng-Yi Joins the Lab"
-description: "Our first post-doctoral fellow hits the ground running"
+description: "From Nematostella to zebrafish!"
 date: 2021-02-15
 ---
 
