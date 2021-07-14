@@ -6,7 +6,7 @@ permalink: /lab-members/
 ---
 
 <figure class="figtwocolleft">
-  <img src="../assets/people/Farrell-Jeff-2020-Mask.png" alt="Portrait of Jeff Farrell" width="288" height="288" />
+  <img src="../assets/people/Farrell-Jeff-2020-NoMask.png" alt="Portrait of Jeff Farrell" width="288" height="288" />
   <div style="text-align : center">
   <br />
   <b>Jeff Farrell</b> <br />
