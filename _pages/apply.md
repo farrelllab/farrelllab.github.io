@@ -9,7 +9,7 @@ We're looking for enthusiastic lab members who want to combine classic embryolog
 
 ## Post-doctoral Fellows
 
-Post-docs in the lab can start their own projects or lead on-going projects in the lab. Research experience in one or more of the following areas is a plus: early embryonic or zebrafish development, genetics, imaging, single-cell transcriptomics, or computational biology. To apply, please send a cover letter (2-3 paragraphs describing your desired start date, research experience, and why you would like to join us), a CV with bibliography, and contact information for 3 references to [jeffrey.farrell@nih.gov](mailto:jeffrey.farrell@nih.gov). You can also read a [more detailed job posting](https://www.training.nih.gov/postdoc_jobs_nih/view/_31/7275/Single-cell_Genomics_and_Genetics_of_Embryonic_Cell_Fate_Decisions).
+Post-docs in the lab can start their own projects or lead on-going projects in the lab. Research experience in one or more of the following areas is a plus: early embryonic or zebrafish development, genetics, imaging, single-cell transcriptomics, or computational biology. To apply, please send a cover letter (2-3 paragraphs describing your desired start date, research experience, and why you would like to join us), a CV with bibliography, and contact information for 3 references to [jeffrey.farrell@nih.gov](mailto:jeffrey.farrell@nih.gov). You can also read a [more detailed job posting](/apply/pd/).
 
 ## Graduate Students
 
