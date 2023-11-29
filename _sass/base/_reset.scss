@@ -186,6 +186,15 @@ hr {
 	float: right;
 }
 
+.pubimgleft {
+	float: left;
+	padding: 10px 10px 10px 0px;
+}
+
+.pub-desc {
+	font-size: 75%;
+	line-height: 0.6;
+}
 
 @media all and (max-width: $one_col_ok) {
 
@@ -217,6 +226,19 @@ hr {
 		margin-right: auto;
 	}
 	
+	.figonecol {
+	
+	}
+	
+	.figonecol img {
+		width: 144px;
+		height: 144px;
+		float: left;
+		clear: none;
+		display: block;
+		margin-right: 20px;
+	}
+	
 }
 
 @media all and (min-width: $two_col_ok) {
@@ -239,6 +261,25 @@ hr {
 	.texttwocolright {
 		width: 50%;
 		float: right;
+	}
+	
+	.figonecol {
+		display: block;
+		margin-bottom: 20px;
+	}
+
+	.figonecol img {
+		width: 144px;
+		height: 144px;
+		float: left;
+		clear: left;
+		display: inline-block;
+		margin-right: 20px;
+	}
+	
+	.figonecol p {
+		display: inline;
+		vertical-align: middle;
 	}
 
 }

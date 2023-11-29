@@ -16,39 +16,60 @@ permalink: /lab-members/
   </div>
 </figure>
 
-
 <figure class="figtwocolright">
-  <img src="../assets/people/Capar-Paulina-2020.png" alt="Portrait of Paulina Capar" width="288" height="288" />
+  <img src="../assets/people/Prochaska-Morgan-2023.png" alt="Portrait of Morgan Prochaska" width="288" height="288" />
   <div style="text-align : center">
   <br />
-  <b>Paulina Capar</b> <br />
-  Aquatic Research Specialist <br />
-  Joined the lab in 2020 <br />
-  paulina <i>[dot]</i> capar <i>[at]</i> nih.gov <br />
+  <b>Morgan Prochaska</b> <br />
+  Aquatic Specialist & Lab Manager <br />
+  Joined the lab in 2023 <br />
+  morgan <i>[dot]</i> prochaska <i>[at]</i> nih.gov <br />
   </div>
 </figure>
 
 <figure class="figtwocolleft">
-  <img src="../assets/people/Chen-ChengYi-2021.png" alt="Portrait of Cheng-Yi Chen" width="288" height="288" />
+  <img src="../assets/people/Lee-Sean-2022.png" alt="Portrait of Sean Lee" width="288" height="288" />
   <div style="text-align : center">
   <br />
-  <b>Cheng-Yi Chen</b> <br />
-  Post-doctoral Fellow <br />
-  Joined the lab in 2021 <br />
-  cheng-yi <i>[dot]</i> chen <i>[at]</i> nih.gov <br />
+  <b>Sean Lee</b> <br />
+  Post-baccalaureate Fellow <br />
+  Joined the lab in 2022 <br />
+  sean <i>[dot]</i> lee2 <i>[at]</i> nih.gov <br />
   </div>
-</figure> 
+</figure>
 
 <figure class="figtwocolright">
-  <img src="../assets/people/Popowitz-Jeremy-2020.png" alt="Portrait of Jeremy Popowitz" width="288" height="288" />
+  <img src="../assets/people/Modak-Avani-2022.png" alt="Portrait of Avani Modak" width="288" height="288" />
   <div style="text-align : center">
   <br />
-  <b>Jeremy Popowitz</b> <br />
+  <b>Avani Modak</b> <br />
   Post-baccalaureate Fellow <br />
-  Joined the lab in 2020 <br />
-  jeremy <i>[dot]</i> popowitz <i>[at]</i> nih.gov <br />
+  Joined the lab in 2022 <br />
+  avani <i>[dot]</i> modak <i>[at]</i> nih.gov <br />
   </div>
-</figure> 
+</figure>
+
+<figure class="figtwocolleft">
+  <img src="../assets/people/Nunneley-Michael-2023.png" alt="Portrait of Michael Nunneley" width="288" height="288" />
+  <div style="text-align : center">
+  <br />
+  <b>Michael Nunneley</b> <br />
+  Post-doctoral Fellow <br />
+  Joined the lab in 2023 <br />
+  michael <i>[dot]</i> nunneley <i>[at]</i> nih.gov <br />
+  </div>
+</figure>
+
+<figure class="figtwocolright">
+  <img src="../assets/people/Park-Gilseung-2023.png" alt="Portrait of Gilseung Park" width="288" height="288" />
+  <div style="text-align : center">
+  <br />
+  <b>Gilseung Park</b> <br />
+  Post-doctoral Fellow <br />
+  Joined the lab in 2023 <br />
+  gilseung <i>[dot]</i> park <i>[at]</i> nih.gov <br />
+  </div>
+</figure>
 
 <figure class="figtwocolleft">
   <img src="../assets/people/Sur-Abhinav-2020.png" alt="Portrait of Abhinav Sur" width="288" height="288" />
@@ -59,20 +80,41 @@ permalink: /lab-members/
   Joined the lab in 2020 <br />
   abhinav <i>[dot]</i> sur <i>[at]</i> nih.gov <br />
   </div>
+</figure>
+
+
+<h1 class="c-article__title">Lab Alumni</h1>
+
+
+<figure class="figonecol">
+  <img src="../assets/people/Chen-ChengYi-2021.png" alt="Portrait of Cheng-Yi Chen" />
+  <b>Cheng-Yi Chen</b> <br />
+  Post-doctoral Fellow <br />
+  2021–2022 <br />
+  Next step: Scientist at Vizgen <br />
 </figure> 
 
-<figure class="figtwocolright">
-  <img src="../assets/people/Upton-Eric-2020.png" alt="Portrait of Eric Upton" width="288" height="288" />
-  <div style="text-align : center">
-  <br />
+<figure class="figonecol">
+  <img src="../assets/people/Popowitz-Jeremy-2020.png" alt="Portrait of Jeremy Popowitz" />
+  <b>Jeremy Popowitz</b> <br />
+  Post-baccalaureate Fellow <br />
+  2020–2022 <br />
+  Next step: Dermatology Scribe at Georgetown <br />
+</figure> 
+
+<figure class="figonecol">
+  <img src="../assets/people/Upton-Eric-2020.png" alt="Portrait of Eric Upton" />
   <b>Eric Upton</b> <br />
   Post-baccalaureate Fellow <br />
-  Joined the lab in 2020 <br />
-  eric <i>[dot]</i> upton <i>[at]</i> nih.gov <br />
-  </div>
+  2020–2022 <br />
+  Next step: PhD program at Washington University in St. Louis <br />
 </figure> 
 
-
-
-
+<figure class="figonecol">
+  <img src="../assets/people/Capar-Paulina-2020.png" alt="Portrait of Paulina Capar" />
+  <b>Paulina Capar</b> <br />
+  Aquatic Research Specialist <br />
+  2020–2023 <br />
+  Next step: Project Manager at NIH Shared Zebrafish Facility
+</figure>
 
