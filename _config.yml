@@ -4,14 +4,14 @@ description: >
   Write a description of your website here.
 
 author: Jeffrey Farrell
-email: jfarrell@g.harvard.edu
+email: jeffrey.farrell@nih.gov
 twitter_username: JeffreyAFarrell
 github_username: farrelllab
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://farrelllab.github.io" # the base hostname & protocol for your site
 
-google_analytics_id: UA-144475323-1
+google_analytics_id:
 disqus_id:
 
 # Build settings

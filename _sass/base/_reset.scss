@@ -189,11 +189,32 @@ hr {
 .pubimgleft {
 	float: left;
 	padding: 10px 10px 10px 0px;
+	display: inline;
+}
+
+.pubimgright {
+	float: right;
+	padding: 10px 0px 10px 10px;
+	display: inline;
+}
+
+.pubimg {
+	padding-top: 10px;
 }
 
 .pub-desc {
+	padding-top: 20px;
 	font-size: 75%;
-	line-height: 0.6;
+	line-height: 120%;
+	text-align: justify;
+}
+
+.pub-block {
+	display: block;
+	text-align: center;
+	border-bottom: 1px #CCCCCC solid;
+	padding-bottom: 20px;
+	margin-bottom: 20px;
 }
 
 @media all and (max-width: $one_col_ok) {
