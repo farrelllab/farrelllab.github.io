@@ -1,0 +1,32 @@
+---
+layout: page
+---
+<article class="c-article">
+<header class="c-article__header">
+	<h1 class="c-article__title">Lab News <br />
+	<span style="font-size: 80%">
+		Era: 
+		<a href="../news/">Recent</a> - 
+		<a href="../news-2022/">2022</a> - 
+		<a href="../news-2021/">2021</a> - 
+		<a href="../news-2020/">2020</a> - 
+		<a href="../news-older/">Older</a>
+  {% if page.display-title %}
+    <br /><br />{{ page.display-title }}:
+  {% endif %}
+  	</span></h1></header>
+  <div class="c-article__main">
+    {{ content }}
+    <hr />
+    <h2>
+    	View lab news from other years:<br />
+    	<a href="../news/">Recent</a> - 
+		<a href="../news-2022/">2022</a> - 
+		<a href="../news-2021/">2021</a> - 
+		<a href="../news-2020/">2020</a> - 
+		<a href="../news-older/">Older</a>
+	</h2>
+  </div>
+  <footer class="c-article__footer">
+  </footer>
+</article>
