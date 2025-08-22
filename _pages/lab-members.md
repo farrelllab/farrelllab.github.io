@@ -28,24 +28,24 @@ permalink: /lab-members/
 </figure>
 
 <figure class="figtwocolleft">
-  <img src="../assets/people/Lee-Sean-2022.png" alt="Portrait of Sean Lee" width="288" height="288" />
+  <img src="../assets/people/Crane-Jackson-2024.png" alt="Portrait of Jackson Crane" width="288" height="288" />
   <div style="text-align : center">
   <br />
-  <b>Sean Lee</b> <br />
+  <b>Jackson Crane</b> <br />
   Post-baccalaureate Fellow <br />
-  Joined the lab in 2022 <br />
-  sean <i>[dot]</i> lee2 <i>[at]</i> nih.gov <br />
+  Joined the lab in 2024 <br />
+  jackson <i>[dot]</i> crane <i>[at]</i> nih.gov <br />
   </div>
 </figure>
 
 <figure class="figtwocolright">
-  <img src="../assets/people/Modak-Avani-2022.png" alt="Portrait of Avani Modak" width="288" height="288" />
+  <img src="../assets/people/Naturale-Victor-2025.png" alt="Portrait of Victor Naturale" width="288" height="288" />
   <div style="text-align : center">
   <br />
-  <b>Avani Modak</b> <br />
-  Post-baccalaureate Fellow <br />
-  Joined the lab in 2022 <br />
-  avani <i>[dot]</i> modak <i>[at]</i> nih.gov <br />
+  <b>Victor Naturale</b> <br />
+  Jane Coffin Childs Fellow <br />
+  Joined the lab in 2025 <br />
+  victor <i>[dot]</i> naturale <i>[at]</i> nih.gov <br />
   </div>
 </figure>
 
@@ -72,16 +72,37 @@ permalink: /lab-members/
 </figure>
 
 <figure class="figtwocolleft">
+  <img src="../assets/people/Segal-Ella-2024.png" alt="Portrait of Ella Segal" width="288" height="288" />
+  <div style="text-align : center">
+  <br />
+  <b>Ella Segal</b> <br />
+  Post-baccalaureate Fellow <br />
+  Joined the lab in 2024 <br />
+  ella <i>[dot]</i> segal <i>[at]</i> nih.gov <br />
+  </div>
+</figure>
+
+<figure class="figtwocolright">
   <img src="../assets/people/Sur-Abhinav-2020.png" alt="Portrait of Abhinav Sur" width="288" height="288" />
   <div style="text-align : center">
   <br />
   <b>Abhinav Sur</b> <br />
-  Post-doctoral Fellow <br />
+  K99 Pathway to Independence Fellow <br />
   Joined the lab in 2020 <br />
   abhinav <i>[dot]</i> sur <i>[at]</i> nih.gov <br />
   </div>
 </figure>
 
+<figure class="figtwocolleft">
+  <img src="../assets/people/Wu-Yalan-2025.png" alt="Portrait of Yalan Wu" width="288" height="288" />
+  <div style="text-align : center">
+  <br />
+  <b>Yalan Wu</b> <br />
+  MD/PhD Student <br />
+  Joined the lab in 2025 <br />
+  yalan <i>[dot]</i> wu <i>[at]</i> nih.gov <br />
+  </div>
+</figure>
 
 <h1 class="c-article__title">Lab Alumni</h1>
 
@@ -99,7 +120,7 @@ permalink: /lab-members/
   <b>Jeremy Popowitz</b> <br />
   Post-baccalaureate Fellow <br />
   2020–2022 <br />
-  Next step: Dermatology Scribe at Georgetown <br />
+  Next step: MD Student at A.T. Still University<br />
 </figure> 
 
 <figure class="figonecol">
@@ -107,7 +128,7 @@ permalink: /lab-members/
   <b>Eric Upton</b> <br />
   Post-baccalaureate Fellow <br />
   2020–2022 <br />
-  Next step: PhD program at Washington University in St. Louis <br />
+  Next step: PhD Student at Washington University in St. Louis <br />
 </figure> 
 
 <figure class="figonecol">
@@ -118,3 +139,18 @@ permalink: /lab-members/
   Next step: Project Manager at NIH Shared Zebrafish Facility
 </figure>
 
+<figure class="figonecol">
+  <img src="../assets/people/Lee-Sean-2022.png" alt="Portrait of Sean Lee" />
+  <b>Sean Lee</b> <br />
+  Post-baccalaureate Fellow <br />
+  2022-2024 <br />
+  Next step: PhD Student at University of Colorado, Anschutz
+</figure>
+
+<figure class="figonecol">
+  <img src="../assets/people/Modak-Avani-2022.png" alt="Portrait of Avani Modak" />
+  <b>Avani Modak</b> <br />
+  Post-baccalaureate Fellow <br />
+  2022-2024 <br />
+  Next step: PhD Student at University of Pennsylvania
+</figure>
