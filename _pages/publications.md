@@ -8,11 +8,59 @@ permalink: /publications/
 A full list of publications is available at [Pubmed](https://www.ncbi.nlm.nih.gov/myncbi/jeffrey%20a..farrell.1/bibliography/public/).
 
 <div class="pub-block">
-<b>Gene module reconstruction elucidates cellular differentiation processes and the regulatory logic of specialized secretion</b><br />
-Wang Y, Liu J, Du LY, Wyss JL, <u>Farrell JA and Schier AF (equal contribution)</u> .<br />
+<b>prdm1a drives a fate switch between hair cells of different mechanosensory organs.</b><br />
+Sandler JE, Tsai YY, Chen S, Sabin L, Lush ME, Sur A, Ellis E, Tran NTT, Cook M, Scott AR, Kniss JS, Farrell JA, Piotrowski T.<br />
 
+<i>Nature Communications</i>. 2025 Aug 18; 16(1):7662. doi: 10.1038/s41467-025-62942-0.<br />
+<i>bioRxiv</i>. 2025 Jun 03; doi: 10.1101/2025.06.01.657251.<br />
+
+[<a href="https://pubmed.ncbi.nlm.nih.gov/40825768/">Pubmed</a>]
+[<a href="https://www.nature.com/articles/s41467-025-62942-0">Nature Communications</a>]
+[<a href="https://www.biorxiv.org/content/10.1101/2025.06.01.657251v1">bioRxiv</a>]
+
+</div>
+
+<div class="pub-block">
+<b>A Molecular, Spatial, and Regulatory Atlas of the Hydra vulgaris Nervous System.</b><br />
+Morris Little H, Primack AS, Tsverov J, Mühlbauer S, Cox BD, Busse C, Schneid S, Louwagie A, Cazet JF, David CN, Farrell JA, Juliano CE.<br />
+
+<i>bioRxiv</i>. 2025 Jun 11; doi: 10.1101/2023.03.15.531610.<br />
+
+[<a href="https://pubmed.ncbi.nlm.nih.gov/36993575/">Pubmed</a>]
+[<a href="https://www.biorxiv.org/content/10.1101/2023.03.15.531610v3">bioRxiv</a>]
+
+<p>
+<img src="../assets/news/2025-MorrisLittle.png" alt="Dendrogram describing molecular specification of neurons in Hydra" class = "pubimg" width = "350px" />
+</p>
+</div>
+
+
+
+<div class="pub-block">
+<b>Germ cell progression through zebrafish spermatogenesis declines with age.</b><br />
+Sposato AL, Hollins HL, Llewellyn DR, Weber JM, Schrock MN, <u>Farrell JA</u>, Gagnon JA.<br />
+
+<i>Development</i>. 2024 Nov 15;151(22). doi:10.1242/dev.204319.<br />
+<i>bioRxiv</i>. 2023 Sep 06; doi:10.1101/2023.09.05.556432<br />
+
+[<a href="https://pubmed.ncbi.nlm.nih.gov/39470160/">Pubmed</a>]
+[<a href="https://journals.biologists.com/dev/article/151/22/dev204319/363018/Germ-cell-progression-through-zebrafish">Development</a>]
+[<a href="https://www.biorxiv.org/content/10.1101/2023.09.05.556432v2">bioRxiv</a>]
+
+<p>
+<img src="../assets/news/2024-Sposato.png" alt="Sposato et al. Fig 4A" class = "pubimg" width = "350px" />
+</p>
+</div>
+
+<div class="pub-block">
+<b>Gene module reconstruction elucidates cellular differentiation processes and the regulatory logic of specialized secretion</b><br />
+Wang Y, Liu J, Du LY, Wyss JL, <u>Farrell JA and Schier AF (co-corresponding)</u> .<br />
+
+<i>Developmental Cell</i>. 2025 Feb 24; 60(4):581-598.e9. doi: 10.1016/j.devcel.2024.10.015<br />
 <i>bioRxiv</i>. 2023 Dec 29; doi:10.1101/2023.12.29.573643<br />
 
+[<a href="https://pubmed.ncbi.nlm.nih.gov/39591963/">Pubmed</a>]
+[<a href="https://www.sciencedirect.com/science/article/pii/S1534580724006348">Developmental Cell</a>]
 [<a href="https://www.biorxiv.org/content/10.1101/2023.12.29.573643">bioRxiv</a>]
 
 <p class="pub-desc">
@@ -20,6 +68,26 @@ We integrated gene expression dynamics from single-cell RNAseq developmental tra
 </p>
 
 <img src="../assets/news/2023-12-29-Wang.png" alt="Wang et al. Fig 3" class = "pubimg" width = "350px" />
+</div>
+
+
+
+<div class="pub-block">
+<b>Single-cell temporal dynamics reveals the relative contributions of transcription and degradation to cell-type specific gene expression in zebrafish embryos</b><br />
+Fishman L, Modak A, Nechooshtan G, Razin T, Erhard F, Regev A, <u>Farrell JA and Rabani M (co-corresponding)</u>.<br />
+
+<i>Nature Communications</i>. 2024 Apr 10; doi: 10.1038/s41467-024-47290-9<br />
+<i>bioRxiv</i>. 2023 Apr 21; doi:10.1101/2023.04.20.537620<br />
+
+[<a href="https://pubmed.ncbi.nlm.nih.gov/37131717/">Pubmed</a>]
+[<a href="https://www.nature.com/articles/s41467-024-47290-9">Nature Communications</a>]
+[<a href="https://www.biorxiv.org/content/10.1101/2023.04.20.537620v1">bioRxiv</a>]
+
+<p class="pub-desc">
+Using combined metabolic labeling and single-cell RNAseq we were able to distinguish between maternally loaded and zygotically transcribed mRNA in zebrafish embryos. This allowed us to quantify the rates of destruction of maternally loaded mRNAs during the maternal-to-zygotic transitions and identify that differential degradation of maternal mRNAs contributes to cell type-specific gene expression programs in cells of the enveloping layer as well as the primordial germ cells. We also identified putative sequence elements in their UTRs that may mediate their different rates of destruction.
+</p>
+
+<img src="../assets/news/2023-04-21-Fishman.png" alt="Fishman et al Graphical Abstract" class="pubimg" width = "200px"/>
 </div>
 
 
@@ -40,25 +108,6 @@ We generated a 489,000 cell atlas of 62 stages of zebrafish development that ext
 
 <img src="../assets/news/2023-03-21-Sur.png" alt="Sur et al. Fig 1" class = "pubimg" width = "350px" />
 </div>
-
-
-
-<div class="pub-block">
-<b>Single-cell temporal dynamics reveals the relative contributions of transcription and degradation to cell-type specific gene expression in zebrafish embryos</b><br />
-Fishman L, Nechooshtan G, Erhard F, Regev A, <u>Farrell JA and Rabani M (equal contribution)</u>.<br />
-
-<i>bioRxiv</i>. 2023 Apr 21; doi:10.1101/2023.04.20.537620<br />
-
-[<a href="https://pubmed.ncbi.nlm.nih.gov/37131717/">Pubmed</a>]
-[<a href="https://www.biorxiv.org/content/10.1101/2023.04.20.537620v1">bioRxiv</a>]
-
-<p class="pub-desc">
-Using combined metabolic labeling and single-cell RNAseq we were able to distinguish between maternally loaded and zygotically transcribed mRNA in zebrafish embryos. This allowed us to quantify the rates of destruction of maternally loaded mRNAs during the maternal-to-zygotic transitions and identify that differential degradation of maternal mRNAs contributes to cell type-specific gene expression programs in cells of the enveloping layer as well as the primordial germ cells. We also identified putative sequence elements in their UTRs that may mediate their different rates of destruction.
-</p>
-
-<img src="../assets/news/2023-04-21-Fishman.png" alt="Fishman et al Graphical Abstract" class="pubimg" width = "200px"/>
-</div>
-
 
 
 <div class = "pub-block">
